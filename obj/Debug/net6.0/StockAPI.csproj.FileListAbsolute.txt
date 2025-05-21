@@ -1,0 +1,222 @@
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\StockAPI.staticwebassets.endpoints.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\StockAPI.exe
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\StockAPI.deps.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\StockAPI.runtimeconfig.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\StockAPI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\StockAPI.pdb
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfo.cs
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\scopedcss\bundle\StockAPI.styles.css
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.StockAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.StockAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StockAPI.props
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockAPI.props
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockAPI.props
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.csproj.Up2Date
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\refint\StockAPI.dll
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.pdb
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\StockAPI.genruntimeconfig.cache
+C:\Users\student\Desktop\Smart Stock Management\StockAPI\obj\Debug\net6.0\ref\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\StockAPI.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\StockAPI.exe
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\StockAPI.deps.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\StockAPI.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\StockAPI.pdb
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\scopedcss\bundle\StockAPI.styles.css
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.StockAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.StockAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StockAPI.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockAPI.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockAPI.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\refint\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.pdb
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\StockAPI.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\obj\Debug\net6.0\ref\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\StockAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\StockAPI.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\StockAPI.exe
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\StockAPI.deps.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\StockAPI.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\StockAPI.pdb
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\scopedcss\bundle\StockAPI.styles.css
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.StockAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.StockAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StockAPI.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockAPI.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockAPI.props
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\refint\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.pdb
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\ref\StockAPI.dll

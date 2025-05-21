@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ssL/EoxqBNRCUx8n9JeSwclP5D1JQMgHNb0Ovur3xMY=",
+  "Source": "StockAPI",
+  "BasePath": "_content/StockAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
