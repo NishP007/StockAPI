@@ -94,23 +94,18 @@ builder.Services.AddResponseCompression(options =>
     options.MimeTypes = ResponseCompressionDefaults.MimeTypes;
 });
 
-builder.Services.Configure<BrotliCompressionProviderOptions>(options =>
-{
-    options.Level = CompressionLevel.Fastest;
-});
-builder.Services.Configure<GzipCompressionProviderOptions>(options =>
-{
-    options.Level = CompressionLevel.Optimal;
-});
-
 builder.WebHost.ConfigureKestrel(options =>
 {
-    // Listen on HTTP port 5197 for any IP (non-HTTPS)
+    // Listen on HTTP port (e.g., 5197) for all environments
     options.ListenAnyIP(5197);
 
-    // Listen on HTTPS port 7101 for any IP with HTTPS
-    options.ListenAnyIP(7101, listenOptions => listenOptions.UseHttps());
+    // For local dev only: enable HTTPS on 7101
+    if (builder.Environment.IsDevelopment())
+    {
+        options.ListenAnyIP(7101, listenOptions => listenOptions.UseHttps());
+    }
 });
+
 
 ////
 // 8. Build app
@@ -123,7 +118,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseCors("AllowAll");
 
