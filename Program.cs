@@ -103,6 +103,14 @@ builder.Services.Configure<GzipCompressionProviderOptions>(options =>
     options.Level = CompressionLevel.Optimal;
 });
 
+builder.WebHost.ConfigureKestrel(options =>
+{
+    // Listen on HTTP port 5197 for any IP (non-HTTPS)
+    options.ListenAnyIP(5197);
+
+    // Listen on HTTPS port 7101 for any IP with HTTPS
+    options.ListenAnyIP(7101, listenOptions => listenOptions.UseHttps());
+});
 
 ////
 // 8. Build app

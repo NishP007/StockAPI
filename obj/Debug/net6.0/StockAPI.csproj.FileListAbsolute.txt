@@ -220,3 +220,4 @@ C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\refint\
 C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.pdb
 C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\ref\StockAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\OJT\stock\stock\StockAPI\obj\Debug\net6.0\StockAPI.sourcelink.json
